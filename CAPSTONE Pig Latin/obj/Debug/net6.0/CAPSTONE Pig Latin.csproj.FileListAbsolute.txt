@@ -1,0 +1,30 @@
+C:\Users\maria\source\repos\CAPSTONE Pig Latin\CAPSTONE Pig Latin\bin\Debug\net6.0\CAPSTONE Pig Latin.exe
+C:\Users\maria\source\repos\CAPSTONE Pig Latin\CAPSTONE Pig Latin\bin\Debug\net6.0\CAPSTONE Pig Latin.deps.json
+C:\Users\maria\source\repos\CAPSTONE Pig Latin\CAPSTONE Pig Latin\bin\Debug\net6.0\CAPSTONE Pig Latin.runtimeconfig.json
+C:\Users\maria\source\repos\CAPSTONE Pig Latin\CAPSTONE Pig Latin\bin\Debug\net6.0\CAPSTONE Pig Latin.dll
+C:\Users\maria\source\repos\CAPSTONE Pig Latin\CAPSTONE Pig Latin\bin\Debug\net6.0\CAPSTONE Pig Latin.pdb
+C:\Users\maria\source\repos\CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\CAPSTONE Pig Latin.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\CAPSTONE Pig Latin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\CAPSTONE Pig Latin.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\CAPSTONE Pig Latin.AssemblyInfo.cs
+C:\Users\maria\source\repos\CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\CAPSTONE Pig Latin.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\CAPSTONE Pig Latin.dll
+C:\Users\maria\source\repos\CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\refint\CAPSTONE Pig Latin.dll
+C:\Users\maria\source\repos\CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\CAPSTONE Pig Latin.pdb
+C:\Users\maria\source\repos\CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\CAPSTONE Pig Latin.genruntimeconfig.cache
+C:\Users\maria\source\repos\CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\ref\CAPSTONE Pig Latin.dll
+C:\Users\maria\source\repos\Lab 004 CAPSTONE Pig Latin\CAPSTONE Pig Latin\bin\Debug\net6.0\CAPSTONE Pig Latin.exe
+C:\Users\maria\source\repos\Lab 004 CAPSTONE Pig Latin\CAPSTONE Pig Latin\bin\Debug\net6.0\CAPSTONE Pig Latin.deps.json
+C:\Users\maria\source\repos\Lab 004 CAPSTONE Pig Latin\CAPSTONE Pig Latin\bin\Debug\net6.0\CAPSTONE Pig Latin.runtimeconfig.json
+C:\Users\maria\source\repos\Lab 004 CAPSTONE Pig Latin\CAPSTONE Pig Latin\bin\Debug\net6.0\CAPSTONE Pig Latin.dll
+C:\Users\maria\source\repos\Lab 004 CAPSTONE Pig Latin\CAPSTONE Pig Latin\bin\Debug\net6.0\CAPSTONE Pig Latin.pdb
+C:\Users\maria\source\repos\Lab 004 CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\CAPSTONE Pig Latin.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Lab 004 CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\CAPSTONE Pig Latin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Lab 004 CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\CAPSTONE Pig Latin.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Lab 004 CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\CAPSTONE Pig Latin.AssemblyInfo.cs
+C:\Users\maria\source\repos\Lab 004 CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\CAPSTONE Pig Latin.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Lab 004 CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\CAPSTONE Pig Latin.dll
+C:\Users\maria\source\repos\Lab 004 CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\refint\CAPSTONE Pig Latin.dll
+C:\Users\maria\source\repos\Lab 004 CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\CAPSTONE Pig Latin.pdb
+C:\Users\maria\source\repos\Lab 004 CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\CAPSTONE Pig Latin.genruntimeconfig.cache
+C:\Users\maria\source\repos\Lab 004 CAPSTONE Pig Latin\CAPSTONE Pig Latin\obj\Debug\net6.0\ref\CAPSTONE Pig Latin.dll
