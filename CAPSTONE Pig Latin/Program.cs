@@ -17,26 +17,30 @@ while (translate)
         {
             //STARTS WITH VOWEL
             //if the word starts with a vowel then add "way" to the end of the word
-            if (StartsWithVowel(english))
+            if (StartsWithVowel(word))
             {
-                if (!HasPunctuation(english))
+                if (HasPunctuation(word))
                 {
 
-                string vowelWord = word + "way";
-                Console.WriteLine(vowelWord);
-                }
-
-                else   
-                {
                     string vowelWord = word + "way";
-                    string punct = english.Substring(english.Length - 1, 1);
+                    string punct = word.Substring(word.Length - 1, 1);
                     string justWord = vowelWord.Replace(punct, "");
                     Console.WriteLine(justWord + punct);
+                    //*******THIS IS CURRENTLY NOT WORKING PROPERLY
+                    //******FIGURE OUT HOW TO ONLY INSERT THE PUNCTUATION AT THE END OF THE SENTENCE
+                    
                 }
-                break;
+
+                else
+                {
+                    string vowelWord = word + "way";
+                Console.WriteLine(vowelWord);
+            }
+            break;
             }
 
             //STARTS WITH CONSTINANT
+            //******this breaks if you put a constinant word then a vowel word!
             //get all the letters until there is a vowel of the input english
             //if the word starts with a constinant move the constinants to the end and add "ay"
             else if (word[i] == 'a' || word[i] == 'e' || word[i] == 'i' || word[i] == 'o' || word[i] == 'u'
@@ -63,10 +67,8 @@ while (translate)
                 }
                 break;
             }
-
         }
     }
-
 
     //ask to continue
     bool answ = true;
@@ -92,13 +94,12 @@ while (translate)
     }
 }
 
-
 //METHODS
 //-------------------------------------------------------------------------------------------------------
 static bool StartsWithVowel(string english)
 {
     foreach (string word in english.Split(" "))//this splits each word between the spaces (what is inside the "" is a space)
-        for (int i = 0; i < word.Length; i++)
+        
     {
         if (word[0] == 'a' || word[0] == 'e' || word[0] == 'i' || word[0] == 'o' || word[0] == 'u'
             || word[0] == 'A' || word[0] == 'E' || word[0] == 'I' || word[0] == 'O' || word[0] == 'U')
@@ -111,6 +112,28 @@ static bool StartsWithVowel(string english)
     }
     return false;
 }
+
+    static bool HasPunctuation(string english)
+    {
+        if (english.EndsWith("!") || english.EndsWith(".") || english.EndsWith("?")
+           || english.EndsWith(",") || english.EndsWith("¿") || english.EndsWith(":")
+           || english.EndsWith("¡"))
+        {
+            //string punct = english.Substring(english.Length - 1, 1);
+            //string justWord = english.Replace(punct, "");
+            //Console.WriteLine($"This is the punctuation: {punct} and this is the word: {justWord}");
+            //string vowelWordPunct = justWord + "way" + punct;
+            //Console.WriteLine($"translation for constinant word {vowelWordPunct}");
+            return true;
+        }
+            else
+        {
+            return false;
+        }
+        
+    }
+
+
 
 //static bool HasPunctuation(string english)
 //{
@@ -143,30 +166,3 @@ static bool StartsWithVowel(string english)
 //        }
 //    }
 //    return false;
-
-
-
-
-
-    static bool HasPunctuation(string english)
-    {
-        if (english.EndsWith("!") || english.EndsWith(".") || english.EndsWith("?")
-           || english.EndsWith(",") || english.EndsWith("¿") || english.EndsWith(":")
-           || english.EndsWith("¡"))
-        {
-
-            //string punct = english.Substring(english.Length - 1, 1);
-            //string justWord = english.Replace(punct, "");
-            //Console.WriteLine($"This is the punctuation: {punct} and this is the word: {justWord}");
-            //string vowelWordPunct = justWord + "way" + punct;
-            //Console.WriteLine($"translation for constinant word {vowelWordPunct}");
-            return true;
-        }
-            else
-        {
-            return false;
-        }
-        
-    }
-
-
